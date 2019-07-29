@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on blog for kolith</title>
+    <link>https://kolith99.github.io/post/</link>
+    <description>Recent content in Posts on blog for kolith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kolith99.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇 blog</title>
+      <link>https://kolith99.github.io/2019/07/%E7%AC%AC%E4%B8%80%E7%AF%87-blog/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kolith99.github.io/2019/07/%E7%AC%AC%E4%B8%80%E7%AF%87-blog/</guid>
+      <description>第一篇blog 这是我第一篇blog就来说下blog搭建工具hugo。 我的blog是使用hugo框架搭建的静态blog，主题是tranquilpeak，这个主题简洁美观。
+ hugo 的github地址是：https://github.com/gohugoio/hugo
+hugo 的主题地址是：https://themes.gohugo.io/
+ 可以选择自己喜欢的主题来创建自己的blog。 然后发布到github上的pages中就可以在网络中访问了。</description>
+    </item>
+    
+  </channel>
+</rss>
